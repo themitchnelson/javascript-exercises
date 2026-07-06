@@ -9,9 +9,14 @@
 
 // Add your code right below, good luck!
 
+var firstName = "Carlos";
+var lastName = "Stevenson";
+var fullName = `${firstName} ${lastName}`;
+var thisYear = 1965;
+var birthYear = 1947;
+var age = thisYear - birthYear;
 
-
-
+var greeting = `Hello! My name is ${fullName} and I am ${age} years old.`;
 
 // Do not change this
 module.exports = {
