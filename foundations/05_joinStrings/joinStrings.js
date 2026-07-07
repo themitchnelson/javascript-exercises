@@ -27,4 +27,4 @@ module.exports = {
   greeting: typeof greeting === 'undefined' ? undefined : greeting,
   fullName: typeof fullName === 'undefined' ? undefined : fullName,
   age: typeof age === 'undefined' ? undefined : age
-}
+};
